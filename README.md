@@ -1,7 +1,7 @@
 <!-- Animated typing header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Goyal;Python+Backend+%26+GenAI+Engineer;I+build+LLM+apps%2C+voice+agents+%26+RAG;Founder+%40+Planorah" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Goyal;Python+Backend+%26+GenAI+Engineer;I+build+LLM+apps%2C+voice+agents+%26+RAG;Founder+%40+Planorah+Technologies" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ### 👨‍💻 About me
 
 - 💼 Software Developer (AI & Backend) at **Cybrik Solutions** — multi-tenant EdTech CRM on Django/DRF + PostgreSQL
-- 🚀 Founder of **[Planorah](https://planorah.me)** — AI platform that generates personalised study roadmaps
+- 🚀 Founder of **Planorah Technologies** — building **[Planorah](https://planorah.me)**, an AI platform that generates personalised study roadmaps
 - 🏋️ Built **[Flexo](https://flexo-gules.vercel.app/)** — multi-tenant gym SaaS used by 20+ paying gyms
 - 🎓 MCA (Amity, 2027) · BCA (Panjab University) · AI & ML program, TiHAN IIT Hyderabad
 - 📍 Ludhiana, India · open to relocation
@@ -50,11 +50,11 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav6284&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Contribution snake
+### 🤖 AI scans · I fix
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav6284/Abhinav6284/output/github-snake-dark.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhinav6284/Abhinav6284/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav6284/Abhinav6284/output/ai-runner-dark.svg" />
+    <img alt="AI helper scanning my contribution graph while I fix it" src="https://raw.githubusercontent.com/Abhinav6284/Abhinav6284/output/ai-runner.svg" />
   </picture>
 </p>
