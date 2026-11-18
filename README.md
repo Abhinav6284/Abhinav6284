@@ -1,7 +1,7 @@
 <!-- Animated typing header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Goyal;Python+Backend+%26+GenAI+Engineer;I+build+LLM+apps%2C+voice+agents+%26+RAG;Founder+%40+Planorah Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Goyal;Python+Backend+%26+GenAI+Engineer;I+build+LLM+apps%2C+voice+agents+%26+RAG;Founder+%40+Planorah" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,8 +15,6 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/SahilSharma2710/SahilSharma2710/main/coder.gif" alt="coding" />
-
 ### 👨‍💻 About me
 
 - 💼 Software Developer (AI & Backend) at **Cybrik Solutions** — multi-tenant EdTech CRM on Django/DRF + PostgreSQL
@@ -25,8 +23,6 @@
 - 🎓 MCA (Amity, 2027) · BCA (Panjab University) · AI & ML program, TiHAN IIT Hyderabad
 - 📍 Ludhiana, India · open to relocation
 
-<br clear="right"/>
-
 ### 🔧 What I've built
 
 | Project | What it does | Stack |
@@ -34,7 +30,7 @@
 | **AI scoring engine** (Cybrik) | Whisper transcribes IELTS/PTE speaking; GPT-4o grades writing & speaking against official band rules | Python, Django, Celery, OpenAI |
 | **Voice agent + CRM** (Cybrik) | ElevenLabs voice agent for automated lead calls, wired into a CRM over Tata Smartflo telephony webhooks | Django REST, Redis, ElevenLabs |
 | **[Planorah](https://planorah.me)** | LLM workflows generate structured study roadmaps; adapts to learner progress; adding RAG | Django, FastAPI, Celery, Gemini, PostgreSQL |
-| **TrustDesk** *(in progress)* | Open-source WhatsApp support agent: RAG over pgvector, grounding gate against hallucinations, human handoff | FastAPI, PostgreSQL + pgvector, Redis, Docker |
+| **[TrustDesk](https://github.com/Abhinav6284/TrustDesk-whatsapp-)** *(in progress)* | Open-source WhatsApp support agent: RAG over pgvector, grounding gate against hallucinations, human handoff | FastAPI, PostgreSQL + pgvector, Redis, Docker |
 | **[Flexo](https://flexo-gules.vercel.app/)** | Gym SaaS: tenant-isolated data, Razorpay payments, automated WhatsApp renewal reminders | Next.js, PostgreSQL, Prisma, WhatsApp API |
 
 ### 🧰 Tech stack
